@@ -15,5 +15,5 @@ loadUi podłączamy metodę increment do przycisku a końcowo pokazujemy i
 odpalamy aplikacje za pomocą show() oraz .exec() na kocu tworzymy aplikacje
 którą przekazujemy jako argument do stworzenia naszej klasy application
 
-![Alt text](Zrzut ekranu (189).png "uzycie")
+![Alt text](https://github.com/JaimeUnCroissant/Zadanie-2024_25_001/blob/main/Zrzut%20ekranu%20(189).png "uzycie")
 

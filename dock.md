@@ -3,7 +3,7 @@ i wpisujemy
 pip install pyqt5 - aby pobrać pyqt5
 oraz pip install pyqt5designer - aby pobrać qtdesigner
 
-![Alt text](Zrzut ekranu (187).png "pobranie")
+![Alt text](https://github.com/JaimeUnCroissant/Zadanie-2024_25_001/blob/main/Zrzut%20ekranu%20(187).png "pobranie")
 
 następnie wpisujemy designer aby odpalić qtdesigner
 potem dodaje przycisk i label i eksportuje plik ui
